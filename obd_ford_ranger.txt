@@ -1,0 +1,76 @@
+18:20:04.479 -> Attempting to connect to OBD2 CAN bus ... success
+18:20:05.674 -> PIDs supported [01 - 20]
+18:20:05.674 -> Monitor status since DTCs cleared
+18:20:05.708 -> Calculated engine load
+18:20:05.743 -> Engine coolant temperature
+18:20:05.780 -> Intake manifold absolute pressure
+18:20:05.815 -> Engine RPM
+18:20:05.849 -> Vehicle speed
+18:20:05.849 -> Intake air temperature
+18:20:05.886 -> MAF air flow rate
+18:20:05.886 -> OBD standards this vehicle conforms to
+18:20:05.959 -> Run time since engine start
+18:20:05.959 -> PIDs supported [21 - 40]
+18:20:05.999 -> Distance traveled with malfunction indicator lamp (MIL) on
+18:20:06.048 -> Fuel Rail Gauge Pressure (diesel, or gasoline direct injection)
+18:20:06.114 -> Commanded EGR
+18:20:06.185 -> Warm-ups since codes cleared
+18:20:06.185 -> Distance traveled since codes cleared
+18:20:06.235 -> Absolute Barometric Pressure
+18:20:06.235 -> PIDs supported [41 - 60]
+18:20:06.291 -> Control module voltage
+18:20:06.291 -> Ambient air temperature
+18:20:06.343 -> Absolute throttle position D
+18:20:06.343 -> Absolute throttle position E
+18:20:06.422 -> VIN : MNLSFE10AW820578
+--------------------
+18:20:07.015 -> Engine RPM	 :747.00rpm
+18:20:07.380 -> Calculated engine load	 :31.37%
+18:20:07.690 -> Engine coolant temperature	 :51.00°C
+18:20:08.009 -> Vehicle speed	 :0.00km/h
+18:20:08.358 -> Engine oil temperature	 :nan°C
+18:20:08.668 -> Distance traveled with malfunction indicator lamp (MIL) on	 :0.00km
+18:20:08.977 -> Distance traveled since codes cleared	 :1693.00km
+18:20:09.331 -> Time since trouble codes cleared	 :nanminutes
+18:20:09.652 -> Intake air temperature	 :47.00°C
+18:20:09.966 -> --------------------
+18:20:09.966 -> Engine RPM	 :742.00rpm
+18:20:10.342 -> Calculated engine load	 :29.41%
+18:20:10.662 -> Engine coolant temperature	 :51.00°C
+18:20:11.013 -> Vehicle speed	 :0.00km/h
+18:20:11.326 -> Engine oil temperature	 :nan°C
+18:20:11.641 -> Distance traveled with malfunction indicator lamp (MIL) on	 :0.00km
+18:20:11.962 -> Distance traveled since codes cleared	 :1693.00km
+18:20:12.309 -> Time since trouble codes cleared	 :nanminutes
+18:20:12.624 -> Intake air temperature	 :47.00°C
+18:20:12.948 -> --------------------
+18:20:12.948 -> Engine RPM	 :746.00rpm
+18:20:13.297 -> Calculated engine load	 :28.24%
+18:20:13.648 -> Engine coolant temperature	 :51.00°C
+18:20:13.967 -> Vehicle speed	 :0.00km/h
+18:20:14.319 -> Engine oil temperature	 :nan°C
+18:20:14.603 -> Distance traveled with malfunction indicator lamp (MIL) on	 :0.00km
+18:20:14.950 -> Distance traveled since codes cleared	 :1693.00km
+18:20:15.307 -> Time since trouble codes cleared	 :nanminutes
+18:20:15.595 -> Intake air temperature	 :47.00°C
+18:20:15.949 -> --------------------
+18:20:15.949 -> Engine RPM	 :750.00rpm
+18:20:16.302 -> Calculated engine load	 :28.24%
+18:20:16.627 -> Engine coolant temperature	 :51.00°C
+18:20:16.965 -> Vehicle speed	 :0.00km/h
+18:20:17.285 -> Engine oil temperature	 :nan°C
+18:20:17.591 -> Distance traveled with malfunction indicator lamp (MIL) on	 :0.00km
+18:20:17.946 -> Distance traveled since codes cleared	 :1693.00km
+18:20:18.260 -> Time since trouble codes cleared	 :nanminutes
+18:20:18.575 -> Intake air temperature	 :47.00°C
+18:20:18.963 -> --------------------
+18:20:18.963 -> Engine RPM	 :758.00rpm
+18:20:19.270 -> Calculated engine load	 :30.98%
+18:20:19.616 -> Engine coolant temperature	 :51.00°C
+18:20:19.953 -> Vehicle speed	 :0.00km/h
+18:20:20.264 -> Engine oil temperature	 :nan°C
+18:20:20.624 -> Distance traveled with malfunction indicator lamp (MIL) on	 :0.00km
+18:20:20.925 -> Distance traveled since codes cleared	 :1693.00km
+18:20:21.237 -> Time since trouble codes cleared	 :nanminutes
+18:20:21.551 -> Intake air temperature	 :47.00°C
+18:20:21.905 -> --------------------
